@@ -1,4 +1,4 @@
-![Anirudh Ramesh Photo](https://www.canva.com/design/DAGkz-92t6U/-uL7heegPh6V6I32pCWgow/view?utm_content=DAGkz-92t6U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfbfd0205a5)
+![Anirudh Ramesh Photo](https://github.com/anirudhr09/anirudhr09/blob/anirudhr09-patch-1/Untitled%20design.gif)
 
 
 
@@ -37,35 +37,32 @@ My journey has been marked by a strong foundation in coding and a commitment to 
 
 </p>
  
-## Blog Sites/Formatting I Use
+## Repositories Contains my Projects, Achievements and Notes too! Check them Out.
 
 <p align="center">
-   <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >
-  <img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" >
- <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <a href="https://anirudhr09.github.io/AR_website/" target="_blank">
+    <strong><span style="font-size: 32px;">✨🚀 Click Here to Visit My Website 🌐💫</span></strong>
+  </a>
 </p>
 
 ## Connect with me on: 
 
-<br>
 <p align="center">
-<a href="https://www.linkedin.com/in/pranav-viswanathan-7976711b7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/pranav-viswanathan-7976711b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
- 
- 
 
- 
- 
 <!--
-<p align=center> <img src=https://komarev.com/ghpvc/?username=PranavViswanathan alt=PranavViswanathan /> </p>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=AnirudhRamesh alt=Anirudhramesh /> </p>
 
 <br><br>
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavViswanathan&count_private=true&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavViswanathan&theme=blue-green)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhRamesh&count_private=true&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhRamesh&theme=blue-green)
 <table>
   <tr>
-   <center> <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavViswanathan&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td></center>
+   <center> <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnirudhRamesh&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td></center>
    </tr>
   
 </table>

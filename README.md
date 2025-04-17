@@ -1,4 +1,4 @@
-![Anirudh Ramesh Photo](https://github.com/anirudhr09/anirudhr09/blob/anirudhr09-patch-1/Untitled%20design.gif)
+![Anirudh Ramesh Photo](https://github.com/anirudhr09/anirudhr09/blob/anirudhr09-patch-1/Anirudh.gif)
 
 
 
@@ -48,17 +48,17 @@ My journey has been marked by a strong foundation in coding and a commitment to 
 ## Connect with me on: 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranav-viswanathan-7976711b7/" target="_blank">
+  <a href="https://www.linkedin.com/in/anirudhr9122/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 <!--
-<p align=center> <img src=https://komarev.com/ghpvc/?username=AnirudhRamesh alt=Anirudhramesh /> </p>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=AnirudhRamesh alt=AnirudhRamesh /> </p>
 
 <br><br>
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhRamesh&count_private=true&theme=radical&show_icons=true)
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhRamesh&count_private=true&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhRamesh&theme=blue-green)
 <table>
   <tr>
@@ -68,4 +68,4 @@ My journey has been marked by a strong foundation in coding and a commitment to 
 </table>
 -->
 
-![snake](https://github.com/PranavViswanathan/PranavViswanathan/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/anirudhr09/anirudhr09/blob/anirudhr09-patch-1/github-contribution-grid-snake.svg)
